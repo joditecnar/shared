@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Informatica</string>
+    <string name="TextViewTitulo">Agenda personal</string>
+    <string name="EditTextNombre">Nombre y apellidos</string>
+    <string name="EditTextTelefono">Teléfono</string>
+    <string name="EditTextCorreo">Correo@</string>
+    <string name="EditTextEdad">Edad</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Agenda">Ver registro</string>
+
+    <string name="textView1">Nombre</string>
+    <string name="textView2">Teléfono</string>
+    <string name="textView3">Correo</string>
+    <string name="textView4">Edad</string>
+    <string name="tituloPag2">REGISTRO</string>
+    <string name="imageButton"></string>
+    <string name="textViewPage1"></string>
+    <string name="textViewPage2"></string>
+    <string name="textViewPage3"></string>
+    <string name="textViewPage4"></string>
+
+</resources>
